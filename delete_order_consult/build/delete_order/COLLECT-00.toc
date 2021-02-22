@@ -1,0 +1,367 @@
+([('delete_order.exe',
+   'D:\\slb_auto_project\\qt_slb_tools\\delete_order_consult\\build\\delete_order\\delete_order.exe',
+   'EXECUTABLE'),
+  ('delete_order.exe.manifest',
+   'D:\\slb_auto_project\\qt_slb_tools\\delete_order_consult\\build\\delete_order\\delete_order.exe.manifest',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
+   'd:\\program files (x86)\\python37\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('python37.dll', 'd:\\program files (x86)\\python37\\python37.dll', 'BINARY'),
+  ('PySide2\\plugins\\imageformats\\qicns.dll',
+   'D:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\PySide2\\plugins\\imageformats\\qicns.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\platforms\\qminimal.dll',
+   'D:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\PySide2\\plugins\\platforms\\qminimal.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\platforms\\qwebgl.dll',
+   'D:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\PySide2\\plugins\\platforms\\qwebgl.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\imageformats\\qtga.dll',
+   'D:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\PySide2\\plugins\\imageformats\\qtga.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\bearer\\qgenericbearer.dll',
+   'D:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\PySide2\\plugins\\bearer\\qgenericbearer.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\platformthemes\\qxdgdesktopportal.dll',
+   'D:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\PySide2\\plugins\\platformthemes\\qxdgdesktopportal.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\imageformats\\qtiff.dll',
+   'D:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\PySide2\\plugins\\imageformats\\qtiff.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\imageformats\\qsvg.dll',
+   'D:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\PySide2\\plugins\\imageformats\\qsvg.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\platforms\\qwindows.dll',
+   'D:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\PySide2\\plugins\\platforms\\qwindows.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\platforminputcontexts\\qtvirtualkeyboardplugin.dll',
+   'D:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\PySide2\\plugins\\platforminputcontexts\\qtvirtualkeyboardplugin.dll',
+   'BINARY'),
+  ('libEGL.dll',
+   'D:\\program files (x86)\\python37\\lib\\site-packages\\PySide2\\libEGL.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\imageformats\\qpdf.dll',
+   'D:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\PySide2\\plugins\\imageformats\\qpdf.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\imageformats\\qjpeg.dll',
+   'D:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\PySide2\\plugins\\imageformats\\qjpeg.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\styles\\qwindowsvistastyle.dll',
+   'D:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\PySide2\\plugins\\styles\\qwindowsvistastyle.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\imageformats\\qwbmp.dll',
+   'D:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\PySide2\\plugins\\imageformats\\qwbmp.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\iconengines\\qsvgicon.dll',
+   'D:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\PySide2\\plugins\\iconengines\\qsvgicon.dll',
+   'BINARY'),
+  ('d3dcompiler_47.dll',
+   'D:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\PySide2\\d3dcompiler_47.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\imageformats\\qgif.dll',
+   'D:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\PySide2\\plugins\\imageformats\\qgif.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\imageformats\\qico.dll',
+   'D:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\PySide2\\plugins\\imageformats\\qico.dll',
+   'BINARY'),
+  ('libGLESv2.dll',
+   'D:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\PySide2\\libGLESv2.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\platforms\\qoffscreen.dll',
+   'D:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\PySide2\\plugins\\platforms\\qoffscreen.dll',
+   'BINARY'),
+  ('opengl32sw.dll',
+   'D:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\PySide2\\opengl32sw.dll',
+   'BINARY'),
+  ('PySide2\\plugins\\imageformats\\qwebp.dll',
+   'D:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\PySide2\\plugins\\imageformats\\qwebp.dll',
+   'BINARY'),
+  ('select',
+   'd:\\program files (x86)\\python37\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('PySide2.QtXml',
+   'd:\\program files (x86)\\python37\\lib\\site-packages\\PySide2\\QtXml.pyd',
+   'EXTENSION'),
+  ('PySide2.QtNetwork',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\PySide2\\QtNetwork.pyd',
+   'EXTENSION'),
+  ('shiboken2.shiboken2',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\shiboken2\\shiboken2.pyd',
+   'EXTENSION'),
+  ('_socket',
+   'd:\\program files (x86)\\python37\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_ssl', 'd:\\program files (x86)\\python37\\DLLs\\_ssl.pyd', 'EXTENSION'),
+  ('unicodedata',
+   'd:\\program files (x86)\\python37\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('pyexpat',
+   'd:\\program files (x86)\\python37\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_hashlib',
+   'd:\\program files (x86)\\python37\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_lzma', 'd:\\program files (x86)\\python37\\DLLs\\_lzma.pyd', 'EXTENSION'),
+  ('_bz2', 'd:\\program files (x86)\\python37\\DLLs\\_bz2.pyd', 'EXTENSION'),
+  ('PySide2.QtCore',
+   'd:\\program files (x86)\\python37\\lib\\site-packages\\PySide2\\QtCore.pyd',
+   'EXTENSION'),
+  ('PySide2.QtUiTools',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\PySide2\\QtUiTools.pyd',
+   'EXTENSION'),
+  ('PySide2.QtWidgets',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\PySide2\\QtWidgets.pyd',
+   'EXTENSION'),
+  ('PySide2.QtGui',
+   'd:\\program files (x86)\\python37\\lib\\site-packages\\PySide2\\QtGui.pyd',
+   'EXTENSION'),
+  ('_decimal',
+   'd:\\program files (x86)\\python37\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_cffi_backend',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\_cffi_backend.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('cryptography.hazmat.bindings._openssl',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\cryptography\\hazmat\\bindings\\_openssl.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('cryptography.hazmat.bindings._constant_time',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\cryptography\\hazmat\\bindings\\_constant_time.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('Qt5Core.dll',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\PySide2\\Qt5Core.dll',
+   'BINARY'),
+  ('Qt5Gui.dll',
+   'd:\\program files (x86)\\python37\\lib\\site-packages\\PySide2\\Qt5Gui.dll',
+   'BINARY'),
+  ('Qt5WebSockets.dll',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\PySide2\\Qt5WebSockets.dll',
+   'BINARY'),
+  ('Qt5Network.dll',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\PySide2\\Qt5Network.dll',
+   'BINARY'),
+  ('Qt5Quick.dll',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\PySide2\\Qt5Quick.dll',
+   'BINARY'),
+  ('Qt5DBus.dll',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\PySide2\\Qt5DBus.dll',
+   'BINARY'),
+  ('Qt5Svg.dll',
+   'd:\\program files (x86)\\python37\\lib\\site-packages\\PySide2\\Qt5Svg.dll',
+   'BINARY'),
+  ('VCRUNTIME140_1.dll',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\PySide2\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('Qt5VirtualKeyboard.dll',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\PySide2\\Qt5VirtualKeyboard.dll',
+   'BINARY'),
+  ('Qt5Qml.dll',
+   'd:\\program files (x86)\\python37\\lib\\site-packages\\PySide2\\Qt5Qml.dll',
+   'BINARY'),
+  ('Qt5Pdf.dll',
+   'd:\\program files (x86)\\python37\\lib\\site-packages\\PySide2\\Qt5Pdf.dll',
+   'BINARY'),
+  ('Qt5Widgets.dll',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\PySide2\\Qt5Widgets.dll',
+   'BINARY'),
+  ('MSVCP140.dll',
+   'D:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\PySide2\\MSVCP140.dll',
+   'BINARY'),
+  ('pyside2.abi3.dll',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\PySide2\\pyside2.abi3.dll',
+   'BINARY'),
+  ('Qt5Xml.dll',
+   'd:\\program files (x86)\\python37\\lib\\site-packages\\PySide2\\Qt5Xml.dll',
+   'BINARY'),
+  ('python3.dll', 'd:\\program files (x86)\\python37\\python3.dll', 'BINARY'),
+  ('shiboken2.abi3.dll',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\shiboken2\\shiboken2.abi3.dll',
+   'BINARY'),
+  ('libcrypto-1_1-x64.dll',
+   'd:\\program files (x86)\\python37\\DLLs\\libcrypto-1_1-x64.dll',
+   'BINARY'),
+  ('libssl-1_1-x64.dll',
+   'd:\\program files (x86)\\python37\\DLLs\\libssl-1_1-x64.dll',
+   'BINARY'),
+  ('MSVCP140_1.dll',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\PySide2\\MSVCP140_1.dll',
+   'BINARY'),
+  ('Qt5QmlModels.dll',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\PySide2\\Qt5QmlModels.dll',
+   'BINARY'),
+  ('base_library.zip',
+   'D:\\slb_auto_project\\qt_slb_tools\\delete_order_consult\\build\\delete_order\\base_library.zip',
+   'DATA'),
+  ('cryptography-2.9.2-py3.7.egg-info\\LICENSE',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\cryptography-2.9.2.dist-info\\LICENSE',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_ko.qm',
+   'D:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\PySide2\\translations\\qtbase_ko.qm',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_en.qm',
+   'D:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\PySide2\\translations\\qtbase_en.qm',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_ja.qm',
+   'D:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\PySide2\\translations\\qtbase_ja.qm',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_zh_TW.qm',
+   'D:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\PySide2\\translations\\qtbase_zh_TW.qm',
+   'DATA'),
+  ('cryptography-2.9.2-py3.7.egg-info\\LICENSE.PSF',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\cryptography-2.9.2.dist-info\\LICENSE.PSF',
+   'DATA'),
+  ('PySide2\\qt.conf',
+   'D:\\program files (x86)\\python37\\lib\\site-packages\\PySide2\\qt.conf',
+   'DATA'),
+  ('cryptography-2.9.2-py3.7.egg-info\\top_level.txt',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\cryptography-2.9.2.dist-info\\top_level.txt',
+   'DATA'),
+  ('cryptography-2.9.2-py3.7.egg-info\\INSTALLER',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\cryptography-2.9.2.dist-info\\INSTALLER',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_sk.qm',
+   'D:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\PySide2\\translations\\qtbase_sk.qm',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_uk.qm',
+   'D:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\PySide2\\translations\\qtbase_uk.qm',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_fi.qm',
+   'D:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\PySide2\\translations\\qtbase_fi.qm',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_ar.qm',
+   'D:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\PySide2\\translations\\qtbase_ar.qm',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_lv.qm',
+   'D:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\PySide2\\translations\\qtbase_lv.qm',
+   'DATA'),
+  ('cryptography-2.9.2-py3.7.egg-info\\RECORD',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\cryptography-2.9.2.dist-info\\RECORD',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_he.qm',
+   'D:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\PySide2\\translations\\qtbase_he.qm',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_hu.qm',
+   'D:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\PySide2\\translations\\qtbase_hu.qm',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_ca.qm',
+   'D:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\PySide2\\translations\\qtbase_ca.qm',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_da.qm',
+   'D:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\PySide2\\translations\\qtbase_da.qm',
+   'DATA'),
+  ('cryptography-2.9.2-py3.7.egg-info\\LICENSE.BSD',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\cryptography-2.9.2.dist-info\\LICENSE.BSD',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_es.qm',
+   'D:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\PySide2\\translations\\qtbase_es.qm',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_bg.qm',
+   'D:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\PySide2\\translations\\qtbase_bg.qm',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_ru.qm',
+   'D:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\PySide2\\translations\\qtbase_ru.qm',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_it.qm',
+   'D:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\PySide2\\translations\\qtbase_it.qm',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_gd.qm',
+   'D:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\PySide2\\translations\\qtbase_gd.qm',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_cs.qm',
+   'D:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\PySide2\\translations\\qtbase_cs.qm',
+   'DATA'),
+  ('cryptography-2.9.2-py3.7.egg-info\\METADATA',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\cryptography-2.9.2.dist-info\\METADATA',
+   'DATA'),
+  ('cryptography-2.9.2-py3.7.egg-info\\AUTHORS.rst',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\cryptography-2.9.2.dist-info\\AUTHORS.rst',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_fr.qm',
+   'D:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\PySide2\\translations\\qtbase_fr.qm',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_pl.qm',
+   'D:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\PySide2\\translations\\qtbase_pl.qm',
+   'DATA'),
+  ('cryptography-2.9.2-py3.7.egg-info\\WHEEL',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\cryptography-2.9.2.dist-info\\WHEEL',
+   'DATA'),
+  ('cryptography-2.9.2-py3.7.egg-info\\LICENSE.APACHE',
+   'd:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\cryptography-2.9.2.dist-info\\LICENSE.APACHE',
+   'DATA'),
+  ('PySide2\\translations\\qtbase_de.qm',
+   'D:\\program files '
+   '(x86)\\python37\\lib\\site-packages\\PySide2\\translations\\qtbase_de.qm',
+   'DATA')],)
